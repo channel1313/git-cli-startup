@@ -41,3 +41,4 @@ hello()
 
 ---
 [Go to h1](#h1)
+[Go to A](./a.md)
